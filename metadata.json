@@ -1,0 +1,6 @@
+{
+  "name": "Global Creator Network Hub",
+  "description": "Connect Once. Create Once. Publish Everywhere. Centralized multi-platform social, video, music, and publishing dashboard with official API connectors, AI repurposing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
